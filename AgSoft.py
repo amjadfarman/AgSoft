@@ -1,5 +1,4 @@
 # Author: Amjad Ali
-# CoAuthor: Graeme C. Wake
 # for AgKnowledge Ltd., Hamilton
 # AGMARDT grant A14016
 # January 2015
